@@ -1,2 +1,2 @@
 # JS-NoteTakingWebsite
-'Note'fy is a dimplt note taking website made purely with JS
+'Note'fy is a simple note taking website made purely with JS
